@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "title": "E-commerce Microservices Migration",
+        "description": "Migrated a monolithic e-commerce app to microservices using Kubernetes.",
+        "tech_stack": [
+            "Kubernetes",
+            "Docker",
+            "Node.js",
+            "MongoDB"
+        ],
+        "complexity": "High"
+    },
+    {
+        "id": 2,
+        "title": "Automated Deployment Pipeline",
+        "description": "Built a GitOps pipeline using ArgoCD and GitHub Actions.",
+        "tech_stack": [
+            "GitHub Actions",
+            "ArgoCD",
+            "AWS"
+        ],
+        "complexity": "Medium"
+    },
+    {
+        "id": 3,
+        "title": "Serverless API Backend",
+        "description": "Developed a serverless REST API using AWS Lambda and API Gateway.",
+        "tech_stack": [
+            "AWS Lambda",
+            "API Gateway",
+            "DynamoDB"
+        ],
+        "complexity": "Medium"
+    }
+]

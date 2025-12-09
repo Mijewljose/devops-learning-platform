@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "DevOps Roadmap 2024",
+    "description": "Complete guide to becoming a DevOps Engineer in 2024.",
+    "url": "https://www.youtube.com/watch?v=example1",
+    "thumbnail": "https://img.youtube.com/vi/example1/maxresdefault.jpg",
+    "tags": ["DevOps", "Career", "Roadmap"]
+  },
+  {
+    "id": 2,
+    "title": "Docker in 100 Seconds",
+    "description": "Learn Docker basics quickly.",
+    "url": "https://www.youtube.com/watch?v=example2",
+    "thumbnail": "https://img.youtube.com/vi/example2/maxresdefault.jpg",
+    "tags": ["Docker", "Containers"]
+  },
+  {
+    "id": 3,
+    "title": "Kubernetes Tutorial for Beginners",
+    "description": "Step-by-step Kubernetes guide.",
+    "url": "https://www.youtube.com/watch?v=example3",
+    "thumbnail": "https://img.youtube.com/vi/example3/maxresdefault.jpg",
+    "tags": ["Kubernetes", "Orchestration"]
+  }
+]
