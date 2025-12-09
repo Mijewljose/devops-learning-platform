@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevOps & Cloud Training Website
 
 A modern, mobile-first training website for DevOps and Cloud Engineering, built with Node.js and React (Vite).
@@ -54,3 +55,6 @@ npm start
 ## Customization
 - Update data files in `server/data/` to change content.
 - Modify `client/src/index.css` variables to change the color scheme.
+=======
+# devops-learning-platform
+>>>>>>> 80a14183ed3b3fa5da0d0504dee02e418443ddd0
