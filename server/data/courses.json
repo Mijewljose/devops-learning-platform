@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "title": "Mastering Jenkins CI/CD",
+        "platform": "Udemy",
+        "rating": 4.8,
+        "url": "https://www.udemy.com/course/jenkins-cicd",
+        "image": "https://via.placeholder.com/300x200?text=Jenkins+Course",
+        "tags": [
+            "Jenkins",
+            "CI/CD",
+            "Automation"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "AWS Certified Solutions Architect",
+        "platform": "Udemy",
+        "rating": 4.7,
+        "url": "https://www.udemy.com/course/aws-certified",
+        "image": "https://via.placeholder.com/300x200?text=AWS+Course",
+        "tags": [
+            "AWS",
+            "Cloud",
+            "Certification"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Terraform for Infrastructure as Code",
+        "platform": "Udemy",
+        "rating": 4.9,
+        "url": "https://www.udemy.com/course/terraform-iac",
+        "image": "https://via.placeholder.com/300x200?text=Terraform+Course",
+        "tags": [
+            "Terraform",
+            "IaC"
+        ]
+    }
+]
