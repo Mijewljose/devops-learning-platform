@@ -2,35 +2,139 @@
     {
         "id": 1,
         "title": "E-commerce Microservices Migration",
-        "description": "Migrated a monolithic e-commerce app to microservices using Kubernetes.",
+        "description": "Migrated a monolithic e-commerce application to microservices architecture using Kubernetes. Implemented service discovery, load balancing, and automated scaling for high availability.",
         "tech_stack": [
             "Kubernetes",
             "Docker",
             "Node.js",
-            "MongoDB"
+            "MongoDB",
+            "Redis",
+            "Nginx"
         ],
-        "complexity": "High"
+        "complexity": "High",
+        "duration": "3 months",
+        "team_size": "5 developers",
+        "key_features": [
+            "Auto-scaling based on traffic",
+            "Zero-downtime deployments",
+            "Service mesh with Istio",
+            "Distributed tracing"
+        ],
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=250&fit=crop"
     },
     {
         "id": 2,
         "title": "Automated Deployment Pipeline",
-        "description": "Built a GitOps pipeline using ArgoCD and GitHub Actions.",
+        "description": "Built a comprehensive GitOps pipeline using ArgoCD and GitHub Actions. Implemented automated testing, security scanning, and multi-environment deployments with rollback capabilities.",
         "tech_stack": [
             "GitHub Actions",
             "ArgoCD",
-            "AWS"
+            "AWS",
+            "Terraform",
+            "Helm",
+            "SonarQube"
         ],
-        "complexity": "Medium"
+        "complexity": "Medium",
+        "duration": "6 weeks",
+        "team_size": "3 DevOps engineers",
+        "key_features": [
+            "Automated security scanning",
+            "Multi-environment deployments",
+            "Rollback mechanisms",
+            "Infrastructure as Code"
+        ],
+        "image": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=400&h=250&fit=crop"
     },
     {
         "id": 3,
         "title": "Serverless API Backend",
-        "description": "Developed a serverless REST API using AWS Lambda and API Gateway.",
+        "description": "Developed a fully serverless REST API using AWS Lambda and API Gateway. Implemented event-driven architecture with real-time data processing and caching strategies.",
         "tech_stack": [
             "AWS Lambda",
             "API Gateway",
-            "DynamoDB"
+            "DynamoDB",
+            "S3",
+            "CloudFront",
+            "SQS"
         ],
-        "complexity": "Medium"
+        "complexity": "Medium",
+        "duration": "4 weeks",
+        "team_size": "2 developers",
+        "key_features": [
+            "Event-driven architecture",
+            "Real-time data processing",
+            "Auto-scaling functions",
+            "Cost optimization"
+        ],
+        "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a9?w=400&h=250&fit=crop"
+    },
+    {
+        "id": 4,
+        "title": "Multi-Cloud Monitoring System",
+        "description": "Designed and implemented a comprehensive monitoring solution spanning AWS, Azure, and GCP. Created custom dashboards, alerting rules, and incident response automation.",
+        "tech_stack": [
+            "Prometheus",
+            "Grafana",
+            "Alertmanager",
+            "AWS CloudWatch",
+            "Azure Monitor",
+            "PagerDuty"
+        ],
+        "complexity": "High",
+        "duration": "8 weeks",
+        "team_size": "4 engineers",
+        "key_features": [
+            "Cross-cloud monitoring",
+            "Custom alerting rules",
+            "Automated incident response",
+            "SLA tracking"
+        ],
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=250&fit=crop"
+    },
+    {
+        "id": 5,
+        "title": "Container Security Platform",
+        "description": "Built a container security platform that provides runtime protection, vulnerability scanning, and compliance checking for Docker and Kubernetes environments.",
+        "tech_stack": [
+            "Kubernetes",
+            "Docker",
+            "Falco",
+            "Trivy",
+            "Open Policy Agent",
+            "ELK Stack"
+        ],
+        "complexity": "High",
+        "duration": "10 weeks",
+        "team_size": "6 security engineers",
+        "key_features": [
+            "Runtime threat detection",
+            "Vulnerability scanning",
+            "Compliance automation",
+            "Security policies"
+        ],
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=250&fit=crop"
+    },
+    {
+        "id": 6,
+        "title": "DevOps Automation Framework",
+        "description": "Created a reusable DevOps automation framework with standardized templates, best practices, and self-service capabilities for development teams.",
+        "tech_stack": [
+            "Ansible",
+            "Python",
+            "Jenkins",
+            "Docker",
+            "Kubernetes",
+            "GitLab"
+        ],
+        "complexity": "Medium",
+        "duration": "5 weeks",
+        "team_size": "3 DevOps engineers",
+        "key_features": [
+            "Reusable templates",
+            "Self-service portal",
+            "Automated provisioning",
+            "Best practices enforcement"
+        ],
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=250&fit=crop"
     }
 ]

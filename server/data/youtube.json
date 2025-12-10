@@ -1,26 +1,82 @@
 [
   {
     "id": 1,
-    "title": "DevOps Roadmap 2024",
-    "description": "Complete guide to becoming a DevOps Engineer in 2024.",
-    "url": "https://www.youtube.com/watch?v=example1",
-    "thumbnail": "https://img.youtube.com/vi/example1/maxresdefault.jpg",
-    "tags": ["DevOps", "Career", "Roadmap"]
+    "title": "Complete DevOps Roadmap 2024",
+    "description": "Comprehensive guide to becoming a DevOps Engineer in 2024. Learn essential skills, tools, and technologies.",
+    "url": "https://www.youtube.com/watch?v=K2ZYqis6r9E",
+    "thumbnail": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=225&fit=crop",
+    "tags": ["DevOps", "Career", "Roadmap", "2024"]
   },
   {
     "id": 2,
-    "title": "Docker in 100 Seconds",
-    "description": "Learn Docker basics quickly.",
-    "url": "https://www.youtube.com/watch?v=example2",
-    "thumbnail": "https://img.youtube.com/vi/example2/maxresdefault.jpg",
-    "tags": ["Docker", "Containers"]
+    "title": "Docker Tutorial for Beginners",
+    "description": "Learn Docker from scratch with hands-on examples. Master containers, images, and Dockerfile.",
+    "url": "https://www.youtube.com/watch?v=3c-iBn73dDE",
+    "thumbnail": "https://images.unsplash.com/photo-1607655956777-a6b8d31c6e01?w=400&h=225&fit=crop",
+    "tags": ["Docker", "Containers", "Tutorial", "Beginners"]
   },
   {
     "id": 3,
-    "title": "Kubernetes Tutorial for Beginners",
-    "description": "Step-by-step Kubernetes guide.",
-    "url": "https://www.youtube.com/watch?v=example3",
-    "thumbnail": "https://img.youtube.com/vi/example3/maxresdefault.jpg",
-    "tags": ["Kubernetes", "Orchestration"]
+    "title": "Kubernetes Full Course",
+    "description": "Complete Kubernetes tutorial covering pods, services, deployments, and more with practical examples.",
+    "url": "https://www.youtube.com/watch?v=X48VuDVv0do",
+    "thumbnail": "https://images.unsplash.com/photo-1558494942-ef40f80a2805?w=400&h=225&fit=crop",
+    "tags": ["Kubernetes", "Orchestration", "Full Course", "K8s"]
+  },
+  {
+    "id": 4,
+    "title": "AWS CI/CD Pipeline with Jenkins",
+    "description": "Build a complete CI/CD pipeline using Jenkins on AWS. Learn automated deployment and testing.",
+    "url": "https://www.youtube.com/watch?v=7K1M_B9JQ4M",
+    "thumbnail": "https://images.unsplash.com/photo-1558494942-ef40f80a2805?w=400&h=225&fit=crop",
+    "tags": ["AWS", "Jenkins", "CI/CD", "Pipeline", "Automation"]
+  },
+  {
+    "id": 5,
+    "title": "Terraform Infrastructure as Code",
+    "description": "Master Terraform for managing cloud infrastructure. Learn modules, state management, and best practices.",
+    "url": "https://www.youtube.com/watch?v=SL5_c_eXQ5g",
+    "thumbnail": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=225&fit=crop",
+    "tags": ["Terraform", "IaC", "Infrastructure", "AWS", "Cloud"]
+  },
+  {
+    "id": 6,
+    "title": "GitLab CI/CD Complete Tutorial",
+    "description": "Learn GitLab CI/CD from basics to advanced. Build pipelines, runners, and automated workflows.",
+    "url": "https://www.youtube.com/watch?v=JavBvYpYrjk",
+    "thumbnail": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=400&h=225&fit=crop",
+    "tags": ["GitLab", "CI/CD", "DevOps", "Pipeline", "Automation"]
+  },
+  {
+    "id": 7,
+    "title": "Ansible Automation Tutorial",
+    "description": "Master Ansible for configuration management and automation. Learn playbooks, roles, and inventories.",
+    "url": "https://www.youtube.com/watch?v=1GmyrPrH5tY",
+    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=225&fit=crop",
+    "tags": ["Ansible", "Automation", "Configuration", "DevOps"]
+  },
+  {
+    "id": 8,
+    "title": "Monitoring with Prometheus & Grafana",
+    "description": "Set up comprehensive monitoring using Prometheus and Grafana. Learn metrics, alerts, and dashboards.",
+    "url": "https://www.youtube.com/watch?v=h4sl2d_4B8A",
+    "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=225&fit=crop",
+    "tags": ["Prometheus", "Grafana", "Monitoring", "Observability", "Metrics"]
+  },
+  {
+    "id": 9,
+    "title": "Helm Package Manager for Kubernetes",
+    "description": "Learn Helm for managing Kubernetes applications. Master charts, releases, and templating.",
+    "url": "https://www.youtube.com/watch?v=2z8eA2_5J0A",
+    "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=225&fit=crop",
+    "tags": ["Helm", "Kubernetes", "Package Manager", "Charts", "K8s"]
+  },
+  {
+    "id": 10,
+    "title": "GitHub Actions CI/CD Tutorial",
+    "description": "Build powerful CI/CD pipelines with GitHub Actions. Learn workflows, actions, and automation.",
+    "url": "https://www.youtube.com/watch?v=R8_veQiYBjI",
+    "thumbnail": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=400&h=225&fit=crop",
+    "tags": ["GitHub", "Actions", "CI/CD", "Pipeline", "Automation"]
   }
 ]

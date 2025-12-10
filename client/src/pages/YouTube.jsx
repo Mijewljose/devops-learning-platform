@@ -12,23 +12,40 @@ const YouTube = () => {
         item.tags.some(tag => tag.toLowerCase().includes(search.toLowerCase()))
     ) : [];
 
-    if (loading) return <div className="container">Loading...</div>;
+    if (loading) return (
+        <div className="container loading">
+            <div className="loading-spinner"></div>
+        </div>
+    );
     if (error) return <div className="container">Error: {error}</div>;
 
     return (
         <div>
             <Helmet>
-                <title>YouTube Tutorials | DevOpsTrain</title>
+                <title>YouTube Tutorials | Mj DevOps Playground</title>
                 <meta name="description" content="Watch the latest DevOps and Cloud tutorials." />
             </Helmet>
-            <h1>YouTube Tutorials</h1>
-            <input
-                type="text"
-                placeholder="Search videos..."
-                value={search}
-                onChange={(e) => setSearch(e.target.value)}
-                style={{ maxWidth: '400px', marginBottom: '2rem' }}
-            />
+            <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
+                <h1>YouTube Tutorials</h1>
+                <p style={{ 
+                    fontSize: '1.125rem', 
+                    color: 'var(--color-text-muted)', 
+                    maxWidth: '600px', 
+                    margin: '0 auto',
+                    lineHeight: 1.6
+                }}>
+                    Stay updated with our latest DevOps tutorials, tips, and best practices. 
+                    From beginner to advanced topics with hands-on examples.
+                </p>
+            </div>
+            <div className="search-input">
+                <input
+                    type="text"
+                    placeholder="Search videos..."
+                    value={search}
+                    onChange={(e) => setSearch(e.target.value)}
+                />
+            </div>
 
             <div className="grid">
                 {filteredData.map(video => (

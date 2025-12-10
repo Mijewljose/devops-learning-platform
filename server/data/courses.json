@@ -1,40 +1,173 @@
 [
     {
         "id": 1,
-        "title": "Mastering Jenkins CI/CD",
+        "title": "Complete DevOps Bootcamp 2024",
         "platform": "Udemy",
         "rating": 4.8,
-        "url": "https://www.udemy.com/course/jenkins-cicd",
-        "image": "https://via.placeholder.com/300x200?text=Jenkins+Course",
+        "url": "https://www.udemy.com/course/complete-devops-bootcamp",
+        "image": "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=400&h=250&fit=crop",
         "tags": [
-            "Jenkins",
+            "DevOps",
+            "Docker",
+            "Kubernetes",
             "CI/CD",
-            "Automation"
+            "AWS"
         ]
     },
     {
         "id": 2,
-        "title": "AWS Certified Solutions Architect",
+        "title": "AWS Certified Solutions Architect Associate",
         "platform": "Udemy",
         "rating": 4.7,
-        "url": "https://www.udemy.com/course/aws-certified",
-        "image": "https://via.placeholder.com/300x200?text=AWS+Course",
+        "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate",
+        "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a9?w=400&h=250&fit=crop",
         "tags": [
             "AWS",
             "Cloud",
-            "Certification"
+            "Certification",
+            "Solutions Architect"
         ]
     },
     {
         "id": 3,
-        "title": "Terraform for Infrastructure as Code",
+        "title": "Docker & Kubernetes: The Practical Guide",
         "platform": "Udemy",
         "rating": 4.9,
-        "url": "https://www.udemy.com/course/terraform-iac",
-        "image": "https://via.placeholder.com/300x200?text=Terraform+Course",
+        "url": "https://www.udemy.com/course/docker-kubernetes-the-practical-guide",
+        "image": "https://images.unsplash.com/photo-1607655956777-a6b8d31c6e01?w=400&h=250&fit=crop",
+        "tags": [
+            "Docker",
+            "Kubernetes",
+            "Containers",
+            "Orchestration"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Terraform - Beginner to Advanced",
+        "platform": "Udemy",
+        "rating": 4.8,
+        "url": "https://www.udemy.com/course/terraform-beginner-to-advanced",
+        "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=250&fit=crop",
         "tags": [
             "Terraform",
-            "IaC"
+            "IaC",
+            "Infrastructure",
+            "AWS",
+            "Azure"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Jenkins, From Zero To Hero",
+        "platform": "Udemy",
+        "rating": 4.6,
+        "url": "https://www.udemy.com/course/jenkins-from-zero-to-hero",
+        "image": "https://images.unsplash.com/photo-1558494942-ef40f80a2805?w=400&h=250&fit=crop",
+        "tags": [
+            "Jenkins",
+            "CI/CD",
+            "Automation",
+            "Pipeline"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Ansible for the Absolute Beginner",
+        "platform": "Udemy",
+        "rating": 4.7,
+        "url": "https://www.udemy.com/course/ansible-for-absolute-beginners",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=250&fit=crop",
+        "tags": [
+            "Ansible",
+            "Automation",
+            "Configuration",
+            "DevOps"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Kubernetes Certified Administrator (CKA)",
+        "platform": "Udemy",
+        "rating": 4.9,
+        "url": "https://www.udemy.com/course/kubernetes-certified-administrator",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=250&fit=crop",
+        "tags": [
+            "Kubernetes",
+            "CKA",
+            "Certification",
+            "Administration"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "GitLab CI/CD: The Complete Guide",
+        "platform": "Udemy",
+        "rating": 4.8,
+        "url": "https://www.udemy.com/course/gitlab-cicd-complete-guide",
+        "image": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=400&h=250&fit=crop",
+        "tags": [
+            "GitLab",
+            "CI/CD",
+            "DevOps",
+            "Pipeline"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Linux for DevOps Engineers",
+        "platform": "Udemy",
+        "rating": 4.7,
+        "url": "https://www.udemy.com/course/linux-for-devops",
+        "image": "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=400&h=250&fit=crop",
+        "tags": [
+            "Linux",
+            "Shell Scripting",
+            "DevOps",
+            "System Administration"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Monitoring with Prometheus & Grafana",
+        "platform": "Udemy",
+        "rating": 4.8,
+        "url": "https://www.udemy.com/course/monitoring-prometheus-grafana",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=250&fit=crop",
+        "tags": [
+            "Prometheus",
+            "Grafana",
+            "Monitoring",
+            "Observability",
+            "Metrics"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Azure DevOps Engineer Certification (AZ-400)",
+        "platform": "Udemy",
+        "rating": 4.6,
+        "url": "https://www.udemy.com/course/azure-devops-engineer-certification",
+        "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a9?w=400&h=250&fit=crop",
+        "tags": [
+            "Azure",
+            "DevOps",
+            "Certification",
+            "Microsoft"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Python for DevOps Engineers",
+        "platform": "Udemy",
+        "rating": 4.7,
+        "url": "https://www.udemy.com/course/python-for-devops",
+        "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=400&h=250&fit=crop",
+        "tags": [
+            "Python",
+            "Automation",
+            "Scripting",
+            "DevOps"
         ]
     }
 ]
